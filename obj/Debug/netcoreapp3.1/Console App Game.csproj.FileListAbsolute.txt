@@ -1,0 +1,11 @@
+D:\Projects 2021\C# Projects\Console Apps\Console App Game\bin\Debug\netcoreapp3.1\Console App Game.exe
+D:\Projects 2021\C# Projects\Console Apps\Console App Game\bin\Debug\netcoreapp3.1\Console App Game.deps.json
+D:\Projects 2021\C# Projects\Console Apps\Console App Game\bin\Debug\netcoreapp3.1\Console App Game.runtimeconfig.json
+D:\Projects 2021\C# Projects\Console Apps\Console App Game\bin\Debug\netcoreapp3.1\Console App Game.runtimeconfig.dev.json
+D:\Projects 2021\C# Projects\Console Apps\Console App Game\bin\Debug\netcoreapp3.1\Console App Game.dll
+D:\Projects 2021\C# Projects\Console Apps\Console App Game\bin\Debug\netcoreapp3.1\Console App Game.pdb
+D:\Projects 2021\C# Projects\Console Apps\Console App Game\obj\Debug\netcoreapp3.1\Console App Game.csprojAssemblyReference.cache
+D:\Projects 2021\C# Projects\Console Apps\Console App Game\obj\Debug\netcoreapp3.1\Console App Game.AssemblyInfoInputs.cache
+D:\Projects 2021\C# Projects\Console Apps\Console App Game\obj\Debug\netcoreapp3.1\Console App Game.AssemblyInfo.cs
+D:\Projects 2021\C# Projects\Console Apps\Console App Game\obj\Debug\netcoreapp3.1\Console App Game.dll
+D:\Projects 2021\C# Projects\Console Apps\Console App Game\obj\Debug\netcoreapp3.1\Console App Game.pdb
